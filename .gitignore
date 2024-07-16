@@ -1,0 +1,4 @@
+.venv
+.env
+Flask_web_app.py
+__pycache__

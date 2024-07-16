@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c234d2a-641e-4bde-9cde-c14faace8206" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/city_not_found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/weather.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="369be973-c61d-4c55-93f4-868a59a627c0" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fpkTaIrzefpyQnCnn6svk9cZtF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.*args.executor": "Run",
+    "Python.*args_&_**kwargs.executor": "Run",
+    "Python.GUI_windows.executor": "Run",
+    "Python.alarm_clock.executor": "Run",
+    "Python.animations.executor": "Run",
+    "Python.arithmetic_operator.executor": "Run",
+    "Python.ball.executor": "Run",
+    "Python.buttons.executor": "Run",
+    "Python.calculator_program.executor": "Run",
+    "Python.canvas.executor": "Run",
+    "Python.chained_conditionals.executor": "Run",
+    "Python.chaining_comparison_operators.executor": "Run",
+    "Python.classes_&_objects.executor": "Run",
+    "Python.clock_program.executor": "Run",
+    "Python.closures.executor": "Run",
+    "Python.colorchooser.executor": "Run",
+    "Python.command_line_arguments.executor": "Run",
+    "Python.comprehensions.executor": "Run",
+    "Python.conditional_operators.executor": "Run",
+    "Python.context_managers_&_with_statement.executor": "Run",
+    "Python.creating_lists_&_dicts_with_lengths.executor": "Run",
+    "Python.data_types.executor": "Run",
+    "Python.defining_infinities.executor": "Run",
+    "Python.dicts.executor": "Run",
+    "Python.dicts_&_sets.executor": "Run",
+    "Python.difference_between_*args_&_**kwargs.executor": "Run",
+    "Python.difference_between_==_&_is.executor": "Run",
+    "Python.drag_&_drop.executor": "Run",
+    "Python.entrybox.executor": "Run",
+    "Python.example.executor": "Run",
+    "Python.exceptions.executor": "Run",
+    "Python.exceptions_&_errors.executor": "Run",
+    "Python.f_strings.executor": "Run",
+    "Python.file_dialog_open_file.executor": "Run",
+    "Python.file_dialog_save_file.executor": "Run",
+    "Python.file_operations.executor": "Run",
+    "Python.finding_index_inside_for_loop.executor": "Run",
+    "Python.for_loop_with_else_statement.executor": "Run",
+    "Python.for_loops.executor": "Run",
+    "Python.frames.executor": "Run",
+    "Python.function_argument_&_parameter_types.executor": "Run",
+    "Python.function_argument_unpacking.executor": "Run",
+    "Python.function_decorators.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.grid.executor": "Run",
+    "Python.handle_exceptions.executor": "Run",
+    "Python.hello.executor": "Run",
+    "Python.if_else_elif.executor": "Run",
+    "Python.insert_item_to_list.executor": "Run",
+    "Python.kansas.executor": "Run",
+    "Python.keyboard_events.executor": "Run",
+    "Python.labels.executor": "Run",
+    "Python.lambda.executor": "Run",
+    "Python.lambda_&_higher_order_functions.executor": "Run",
+    "Python.lambda_functions.executor": "Run",
+    "Python.list_comprehension.executor": "Run",
+    "Python.list_comprehensions.executor": "Run",
+    "Python.list_comprehensions_&_f_strings_&_unpacking.executor": "Run",
+    "Python.lists_&_tuples.executor": "Run",
+    "Python.loops.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.map_&_filter.executor": "Run",
+    "Python.mastermind_game.executor": "Run",
+    "Python.menubar.executor": "Run",
+    "Python.messagebox.executor": "Run",
+    "Python.metaclasses.executor": "Run",
+    "Python.module_1.executor": "Run",
+    "Python.module_2.executor": "Run",
+    "Python.modules.executor": "Run",
+    "Python.mouse_events.executor": "Run",
+    "Python.move_images_on_canvas.executor": "Run",
+    "Python.move_images_with_keys.executor": "Run",
+    "Python.multiple_animations.executor": "Run",
+    "Python.multiple_assignment_&_unpacking_*_operator.executor": "Run",
+    "Python.mutable_vs_immutable.executor": "Run",
+    "Python.nested_loops.executor": "Run",
+    "Python.new_windows.executor": "Run",
+    "Python.oop_project.executor": "Run",
+    "Python.operators.executor": "Run",
+    "Python.other_file.executor": "Run",
+    "Python.output_&_printing.executor": "Run",
+    "Python.password_generator.executor": "Run",
+    "Python.progress_bar.executor": "Run",
+    "Python.python_basics.executor": "Run",
+    "Python.python_game.executor": "Run",
+    "Python.python_graphics_turtle_1.executor": "Run",
+    "Python.recursion.executor": "Run",
+    "Python.return_multiple_values.executor": "Run",
+    "Python.scale.executor": "Run",
+    "Python.scope.executor": "Run",
+    "Python.scope_&_globals.executor": "Run",
+    "Python.send_email.executor": "Run",
+    "Python.server.executor": "Run",
+    "Python.sets.executor": "Run",
+    "Python.short_notation_for_operators.executor": "Run",
+    "Python.slice_operator.executor": "Run",
+    "Python.snake_game.executor": "Run",
+    "Python.string_methods.executor": "Run",
+    "Python.text_area.executor": "Run",
+    "Python.text_editor_program.executor": "Run",
+    "Python.tic_tac_toe_game.executor": "Run",
+    "Python.user_input.executor": "Run",
+    "Python.user_input_2.executor": "Run",
+    "Python.user_input_3.executor": "Run",
+    "Python.user_input_4.executor": "Run",
+    "Python.user_input_5.executor": "Run",
+    "Python.user_input_6.executor": "Run",
+    "Python.user_input_7.executor": "Run",
+    "Python.using_removeprefix_method_instead_of_strip.executor": "Run",
+    "Python.variables.executor": "Run",
+    "Python.walrus_operator.executor": "Run",
+    "Python.way_to_find_which_element_occurs_most_frequently_in_list.executor": "Run",
+    "Python.ways_to_print_items_&_indexes_of_lists.executor": "Run",
+    "Python.ways_to_remove_duplicate_items_from_list.executor": "Run",
+    "Python.weather.executor": "Run",
+    "Python.while_loops.executor": "Run",
+    "Python.window_tabs.executor": "Run",
+    "Python.zip_function.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/Paveluk98/Downloads",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Downloads" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="closures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/closures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_operations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_operations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loops.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recursion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recursion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.file_operations" />
+        <item itemvalue="Python.closures" />
+        <item itemvalue="Python.recursion" />
+        <item itemvalue="Python.functions" />
+        <item itemvalue="Python.loops" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c234d2a-641e-4bde-9cde-c14faace8206" name="Changes" comment="" />
+      <created>1714505414981</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714505414981</updated>
+    </task>
+    <servers />
+  </component>
+</project>
